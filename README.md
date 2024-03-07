@@ -1,0 +1,5 @@
+![Screenshot 2024-03-08 005343](https://github.com/sudarshan8899/HR-Demographics-in-PowerBI/assets/100527086/62300cf0-d39e-4702-baf4-96f693419464)
+![Screenshot 2024-03-08 005404](https://github.com/sudarshan8899/HR-Demographics-in-PowerBI/assets/100527086/7c0fe7af-2f74-409b-aef1-c8005b620e20)
+![Screenshot 2024-03-08 005426](https://github.com/sudarshan8899/HR-Demographics-in-PowerBI/assets/100527086/a6847538-d8e7-4b2b-adf3-67b88541ef4f)
+![Screenshot 2024-03-08 005549](https://github.com/sudarshan8899/HR-Demographics-in-PowerBI/assets/100527086/2cbe850f-a5d6-4ac9-86c4-2352367422e8)
+![Screenshot 2024-03-08 005722](https://github.com/sudarshan8899/HR-Demographics-in-PowerBI/assets/100527086/f7aab550-c80f-49eb-a9f8-d622c5ff7706)
